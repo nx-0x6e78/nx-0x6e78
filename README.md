@@ -2,6 +2,7 @@
   <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light"  />
 </div>
 
+
 <!--
 <h3 align="left">Stars | ⭐</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nx-0x6e78&layout=compact&theme=gruvbos_light" alt=nx-0x6e78 />
@@ -24,6 +25,12 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nx-0x6e78&theme=solarized" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nx-0x6e78&theme=solarized" height="180em" width="618em"/>
 </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="no-ai-code.svg"/>
 </div>
 
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
